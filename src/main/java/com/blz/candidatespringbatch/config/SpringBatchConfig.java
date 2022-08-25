@@ -85,7 +85,6 @@ public class SpringBatchConfig {
     public Job runJob() {
         return jobBuilderFactory.get("candidate")
                 .flow(step1()).end().build();
-
     }
 
     @Bean
