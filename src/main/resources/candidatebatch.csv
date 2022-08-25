@@ -1,0 +1,5 @@
+id,cicid,fullName,email,mobileNum,hiredDate,degree,aggrper,city,state,preferredJobLocation,status,passedOutYear,createrUser,candidateStatus
+1,11,PavanKumar,gvpavan@gmail.com,7898765654,13,BE,70,Bangalore,Karnataka,Bangalore,Completed,2021,Abc,Single
+2,76,Abcd,gd@gmail.com,7874854756,23,Bsc,66,Mysore,Karnataka,Chennai,Remapped,2020,Hij,Single
+3,33,ghg,gg@gmail.com,876456577,12,BE,88,chennai,Tamilnadu,Bangalore,Completed,2012,jhhh,married
+5,5,yh,jhyh,67565,5,be,66,ugh,yhfnc,fgyhn,Inprogress,2012,esf,gz
